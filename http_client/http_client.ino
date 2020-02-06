@@ -1,8 +1,8 @@
 #include<ESP8266WiFi.h>
 #include<ESP8266HTTPClient.h>
 
-#define wifiSSID "sudhanshusinh"
-#define wifiPSWD "sudhanshu"
+#define wifiSSID "WIFI_SSID"
+#define wifiPSWD "PASSWORD"
 
 HTTPClient http;
 
